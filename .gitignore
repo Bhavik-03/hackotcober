@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+models/*.pt
+*.pt
+.env
+data/*_annotated.jpg
+data/*_best_frame.jpg
+.DS_Store
